@@ -1,0 +1,3 @@
+<?php
+	$token = "ENTER_YOUR_AUTHENTICATION_TOKEN";
+?>
